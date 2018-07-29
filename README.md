@@ -1,5 +1,6 @@
 ﻿# DiscordCTR
 DiscordCTR is a Discord client for the 3DS using Secure WebSockets for communication.
+Fork planning to add a GUI
 
 # Dependencies
 - [ctrulib#5725ec2dedfffb2ee721dd8cddb3d24c288f452f](https://github.com/smealum/ctrulib/tree/5725ec2dedfffb2ee721dd8cddb3d24c288f452f)  
